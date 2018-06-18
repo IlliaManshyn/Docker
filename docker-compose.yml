@@ -3,6 +3,7 @@ services:
  backend:
   build: 
    context: ./goback 
+ 
  frontend:
    build: 
     context: ./front
